@@ -1,4 +1,4 @@
-# pouchdb-auth
+# pouchdb-auth-expo (a fork of pouchdb-auth)
 
 [![Build Status](https://travis-ci.org/pouchdb/pouchdb-auth.svg?branch=master)](https://travis-ci.org/pouchdb/pouchdb-auth)
 [![Dependency Status](https://david-dm.org/pouchdb/pouchdb-auth.svg)](https://david-dm.org/pouchdb/pouchdb-auth)
