@@ -22,6 +22,7 @@
     "base64url": "^1.0.5",
     "couchdb-calculate-session-id": "^1.1.0",
     "crypto-lite": "^0.1.0",
+    "expo-random": "^5.0.1",
     "pouchdb-bulkdocs-wrapper": "^1.0.0",
     "pouchdb-plugin-error": "^1.0.0",
     "pouchdb-promise": "^5.4.0",
@@ -29,8 +30,7 @@
     "pouchdb-system-db": "^1.0.0",
     "pouchdb-validation": "^1.1.0",
     "pouchdb-wrappers": "^1.0.0",
-    "promise-nodify": "^1.0.0",
-    "secure-random": "^1.1.1"
+    "promise-nodify": "^1.0.0"
   },
   "devDependencies": {
     "extend": "^3.0.0",
